@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;}
+    header{
+        background-color: aquamarine;
+        color: black;
+        border-radius: 10px;
+    }
+    header img{
+        border-radius: 10px;
+        margin: 5px;
+        
+    }
+    nav{
+        border: 1px solid   blue;
+    }
+    nav a{
+        margin: 60px;
+    }
+    h1{
+        text-align: center;
+    }
+    .d{
+        margin-left: 20px;
+    }
+    h1{
+        margin-left: 20px;
+    }
+    footer{
+  background: coral;
+    }
+    footer p{
+       background-color: white;
+    }
+    .k{
+        background-color: coral;
+
+    }
+  .l{
+    background-color:yellow;
+  }
+ .j{background-color: yellow;
+ }
+ .h{
+    background-color: yellow;
+ }
+ .g{
+    background-color: yellow;
+ }
+ 
